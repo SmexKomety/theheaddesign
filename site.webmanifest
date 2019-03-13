@@ -1,6 +1,6 @@
 {
-    "name": "the head design",
-    "short_name": "the head design",
+    "name": "",
+    "short_name": "",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
@@ -17,6 +17,3 @@
     "background_color": "#ffffff",
     "display": "standalone"
 }
-
-
-
